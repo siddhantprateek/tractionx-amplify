@@ -1,6 +1,6 @@
 {
-  "short_name": "API Gateway",
-  "name": "API Gateway",
+  "short_name": "payment",
+  "name": "payment",
   "icons": [
     {
       "src": "favicon.ico",
